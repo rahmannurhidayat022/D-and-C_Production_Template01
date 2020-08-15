@@ -1,0 +1,30 @@
+body {
+    height: 1500px;
+}
+
+.carousel-item {
+    margin-top: -100px;
+}
+
+.card {
+    margin-top:30px;
+    border: none;
+}
+
+.container-sm .row .col-sm-4 .card .card-body .btn {
+    margin: -100px auto 0px;
+}
+
+.footer {
+    background-image: url(img/BGFooter.png); 
+    height: 300px;
+    margin-top: 100px;
+}
+.container-sm .row .col-sm-2 {
+    margin-top: 30px;
+}
+
+.footer .container-sm .row hr{
+    height: 1px;
+    background-color: aliceblue;
+}

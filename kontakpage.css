@@ -1,0 +1,21 @@
+.footer {
+    background-image: url(img/BGFooter.png); 
+    height: 300px;
+    margin-top: 100px;
+}
+.container-sm .row .col-sm-2 {
+    margin-top: 30px;
+}
+
+.footer .container-sm .row hr{
+    height: 1px;
+    background-color: aliceblue;
+}
+
+.jumbotron {
+    margin-top: 100px;
+}
+
+.googlemaps {
+    height: 300px;
+}
